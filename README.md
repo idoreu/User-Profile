@@ -1,5 +1,5 @@
-<p>Project directory tree
-/*
+<p>Project directory tree</p>
+'''/*
 src/
   components/
     ProfileForm.tsx
@@ -8,7 +8,7 @@ src/
     utilities.ts
   App.tsx
   index.tsx
-*/</p>
+*/'''
 
 <p>(Step 1) 
 Make sure you have the following installed:
