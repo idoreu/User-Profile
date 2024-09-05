@@ -1,12 +1,11 @@
 <p>Project directory tree</p>
-<br>src/</br>  
-  - components/  
-    - ProfileForm.tsx  
-    - ProfileDisplay.tsx  
-  - utilities/  
-    - utilities.ts  
-  - App.tsx  
-  - index.tsx  
+<br>/* src/<br> 
+  -components/<br> 
+    -ProfileForm.tsx<br> 
+    -ProfileDisplay.tsx<br> 
+    -utilities.ts<br> 
+  -App.tsx<br> 
+  -index.tsx */
 
 
 <p>(Step 1) 
