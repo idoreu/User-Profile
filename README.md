@@ -1,6 +1,6 @@
 <p>Project directory tree</p>
 
-/* src/<br> components/<br> ProfileForm.tsx<br> ProfileDisplay.tsx<br> utilities/<br> utilities.ts<br> App.tsx<br> index.tsx */
+src/<br> components/<br> ProfileForm.tsx<br> ProfileDisplay.tsx<br> utilities.ts<br> App.tsx<br> index.tsx
 
 <p>(Step 1) 
 Make sure you have the following installed:
