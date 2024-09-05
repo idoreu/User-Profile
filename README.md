@@ -1,12 +1,6 @@
 <p>Project directory tree</p>
-<br>/* src/<br> 
-  -components/<br> 
-    -ProfileForm.tsx<br> 
-    -ProfileDisplay.tsx<br> 
-    -utilities.ts<br> 
-  -App.tsx<br> 
-  -index.tsx */
 
+/* src/<br> \tcomponents/<br> \t\tProfileForm.tsx<br> \t\tProfileDisplay.tsx<br> \tutilities/<br> \t\tutilities.ts<br> \tApp.tsx<br> \tindex.tsx */
 
 <p>(Step 1) 
 Make sure you have the following installed:
