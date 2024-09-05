@@ -13,8 +13,13 @@ You may download them with:<br>
 // Though the nodejs installation may include npm as well (just follow the instalation instructions)<br>
 
 (step 2)<br>
-type in your cmd:<br>
-cd (path to directory)/User-Profile<br>
+In your cmd write:<br>
+cd (path to directory)<br>
+npx create-react-app User-Profile --template typescript<br>
+
+(step 3)<br>
+Download the src directory from this git repository into the User-Profile directory you had just created<br>
+In your cmd write:<br>
 npm start<br>
 
 The app will open in your default browser at http://localhost:3000
