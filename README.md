@@ -14,7 +14,7 @@ You may download them with:<br>
 
 (step 2)<br>
 type in your cmd:<br>
-cd <path to directory>/User-Profile<br>
+cd (path to directory)/User-Profile<br>
 npm start<br>
 
 The app will open in your default browser at http://localhost:3000
