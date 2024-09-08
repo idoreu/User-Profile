@@ -16,6 +16,7 @@ You may download them with:<br>
 In your cmd write:<br>
 cd (path to directory)<br>
 npx create-react-app User-Profile --template typescript<br>
+npm install bootstrap
 
 (step 3)<br>
 Download the src directory from this git repository into the User-Profile directory you had just created<br>
