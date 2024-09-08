@@ -4,7 +4,7 @@ import { userContext } from './utilities';
 function ProfileDisplay() {
     const userCntxt = useContext(userContext);
 
-    const {user, setUser} = userCntxt;
+    const {user} = userCntxt;
 
     return (
         <div className='container mt-5'>
